@@ -1,2 +1,7 @@
 print("Game 1 : chess")
 print("Game 2 : valorant")
+print("Game 3 : GTA V")
+print("Game 4 : GTA SAN ANDREAS")
+print("Game 5 : GTA 4")
+print("Game 6 : Minecraft")
+print("Game 7 : Vegas crime simulator")
